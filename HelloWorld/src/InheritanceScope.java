@@ -1,7 +1,15 @@
+/** 
+ *This is for inheritance scope  
+ *There are three classes used in this file 
+ * */
 class Base 
 {
+	/**
+	 * method to print the class name
+	 */
 	public void print()
 	{
+		
 		System.out.println("Base");
 	}
 }
